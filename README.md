@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+### I'm WSPY! I'll just make whatever and post it.
+
+- 🌱 Currently learning c#
+- 🦍 Doing Gorilla Tag modding
+
+
+
 <!--
 **him-WSPY/him-WSPY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
