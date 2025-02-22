@@ -2,7 +2,7 @@
 
 ### I'm WSPY! I'll just make whatever and post it.
 
-- 🌱 Currently learning c#
+- 🌱 Currently learning C#
 - 🦍 Doing Gorilla Tag modding
 
 
